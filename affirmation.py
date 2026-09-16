@@ -1,6 +1,6 @@
 import random
 
-from tkinter import font
+
 
 
 AFFIRMATIONS = [
